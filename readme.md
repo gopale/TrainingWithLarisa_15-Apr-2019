@@ -15,6 +15,27 @@ What do these file types mean?
 
 ## How to import the RAML solution into Anypoint Design Center?
 
+- Down the .jar file from appropriate day's folder
+
+- Start **Anypoint Studio** and connect to your workspace
+
+- If you plan to import a project whose name already exist, right-click on the prject and _delete_ it first (don't forget to select the _checkmark_ before deletion)
+
+- Within **Package Explorer** section, right-click anywhere in white space, select **Import** to open the wizard
+
+- Within **Import** wizard, exapnd **Anypoint Studio > Packaged Mule application (jar)** and click **Next**
+
+- Browse and select the .jar file that you downloaded, and click **Finish**
+
+- Wait till all necessary dependencies are downloaded (it is indicated in the bottom-right corner of Studio)
+
+- Now, you are ready to either add more content or run the mule app
+
+ 
+<BR>
+
+## How to import the RAML solution into Anypoint Design Center?
+
 - Download the zip file that represents the RAML specification (no need to unzip it)
 
 - Log into **Anypoit Platform**: https://anypoint.mulesoft.com
