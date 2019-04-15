@@ -10,7 +10,7 @@ What do these file types mean?
 
 - .json or .xml: files used as sample data to build input/output schemas for DataWeave
 
-<BR>
+
 <BR>
 
 ## How to import the RAML solution into Anypoint Design Center?
@@ -28,3 +28,9 @@ What do these file types mean?
 - Click on **Choose File** and point to the zip file you downloaded
 
 - Click **Import**, and select **Yes** if prompted to overwrite the existing .raml file
+
+- Turn on **Mocking Service** (slider on top-right corner)
+
+- Test your API.  When complete, turn off **Mocking Service**
+
+- Publish your API to **Exchange** (there's a button for that too :)  Look at the top-right corner)
