@@ -19,7 +19,7 @@ What do these file types mean?
 
 - Start **Anypoint Studio** and connect to your workspace
 
-- If you plan to import a project whose name already exist, right-click on the prject and _delete_ it first (don't forget to select the _checkmark_ before deletion)
+- **Note**: If you plan to import a project whose name already exist, right-click on the prject and _delete_ it first (don't forget to select the _checkmark_ before deletion)
 
 - Within **Package Explorer** section, right-click anywhere in white space, select **Import** to open the wizard
 
@@ -27,7 +27,7 @@ What do these file types mean?
 
 - Browse and select the .jar file that you downloaded, and click **Finish**
 
-- Wait till all necessary dependencies are downloaded (it is indicated in the bottom-right corner of Studio)
+- Wait till all necessary dependencies are downloaded (progress is indicated at the bottom-right corner of Studio)
 
 - Now, you are ready to either add more content or run the mule app
 
@@ -42,9 +42,9 @@ What do these file types mean?
 
 - Access **Design Center**.  Click **Create > Specification**
 
-- Provide the name: **American Flights API** (note: if you aready have one by this name, remove/rename that first)
+- Provide the name: **American Flights API** (note: if you aready have one by this name, remove/rename the first)
 
-- Once the **API Designer** opens, clikc on **three-dots** at the top-left and select **Import**
+- Once the **API Designer** opens, click on **three-dots** at the top-left and select **Import**
 
 - Click on **Choose File** and point to the zip file you downloaded
 
