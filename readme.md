@@ -15,7 +15,7 @@ What do these file types mean?
 
 ## How to import the solution project .jar file into Studio?
 
-- Down the .jar file from appropriate day's folder
+- Download the .jar file from appropriate day's folder
 
 - Start **Anypoint Studio** and connect to your workspace
 
