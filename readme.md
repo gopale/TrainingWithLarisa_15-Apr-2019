@@ -13,7 +13,7 @@ What do these file types mean?
 
 <BR>
 
-## How to import the RAML solution into Anypoint Design Center?
+## How to import the solution project .jar file into Studio?
 
 - Down the .jar file from appropriate day's folder
 
@@ -31,7 +31,7 @@ What do these file types mean?
 
 - Now, you are ready to either add more content or run the mule app
 
- 
+
 <BR>
 
 ## How to import the RAML solution into Anypoint Design Center?
