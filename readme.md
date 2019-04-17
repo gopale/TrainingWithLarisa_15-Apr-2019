@@ -60,9 +60,9 @@ What do these file types mean?
 
 ## Review (Day-2)
 
-![HTTP GET Request]("pictures/HTTP GET Request.jpg"?raw=true)
+![HTTP GET Request](pictures/HTTP-GET-Request.jpg?raw=true)
 <BR>
-![HTTP GET Request - Goodbye]("pictures/HTTP GET Request - Goodbye.jpg"?raw=true)
+![HTTP GET Request - Goodbye](pictures/HTTP-GET-Request_Goodbye.jpg?raw=true)
 <BR>
-![HTTP POST Request]("pictures/HTTP POST Request.jpg"?raw=true)
+![HTTP POST Request](pictures/HTTP-POST_Request.jpg?raw=true)
 <BR>
