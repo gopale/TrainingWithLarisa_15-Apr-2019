@@ -55,3 +55,14 @@ What do these file types mean?
 - Test your API.  When complete, turn off **Mocking Service**
 
 - Publish your API to **Exchange** (there's a button for that too :)  Look at the top-right corner)
+
+<BR>
+
+## Review (Day-2)
+
+![HTTP GET Request]("pictures/HTTP GET Request.jpg")
+<BR>
+![HTTP GET Request - Goodbye]("pictures/HTTP GET Request - Goodbye.jpg")
+<BR>
+![HTTP POST Request]("pictures/HTTP POST Request.jpg")
+<BR>
