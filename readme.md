@@ -13,7 +13,7 @@ What do these file types mean?
 
 <BR>
 
-## How to import the solution project .jar file into Studio?
+## How to import the solution .jar file into Studio?
 
 - Download the .jar file from appropriate day's folder
 
@@ -21,7 +21,7 @@ What do these file types mean?
 
 - **Note**: If you plan to import a project whose name already exist, right-click on the prject and _delete_ it first (don't forget to select the _checkmark_ before deletion)
 
-- Within **Package Explorer** section, right-click anywhere in white space, select **Import** to open the wizard
+- Within **Package Explorer** section (top-left), right-click anywhere in white space, select **Import** to open the wizard
 
 - Within **Import** wizard, exapnd **Anypoint Studio > Packaged Mule application (jar)** and click **Next**
 
@@ -71,3 +71,21 @@ HTTP GET Request - Goodbye:
 HTTP POST Request:
 ![HTTP POST Request](pictures/HTTP-POST_Request.jpg?raw=true)
 <BR>
+
+<BR>
+
+## Links that Larisa provided:
+
+<BR>
+Policies URL:
+
+ - https://docs.mulesoft.com/api-manager/2.x/policies-mule4
+
+ - https://docs.mulesoft.com/api-manager/2.x/available-policies
+
+ - https://docs.mulesoft.com/api-manager/2.x/policies-ootb-landing-page 
+
+<BR>
+Secure properties:
+
+ - https://docs.mulesoft.com/mule-runtime/4.1/secure-configuration-properties
