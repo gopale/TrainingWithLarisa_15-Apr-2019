@@ -89,3 +89,21 @@ Policies URL:
 Secure properties:
 
  - https://docs.mulesoft.com/mule-runtime/4.1/secure-configuration-properties
+
+<BR>
+DataWeave sources:
+
+- https://docs.mulesoft.com/mule-user-guide/v/4.1/dataweave-formats.html#format_dataweave
+
+
+- https://docs.mulesoft.com/mule-runtime/4.1/dataweave-types-coercion
+
+- https://docs.mulesoft.com/mule-runtime/4.1/dw-functions
+
+- https://docs.mulesoft.com/mule-runtime/4.1/dw-core
+
+- https://docs.mulesoft.com/mule-runtime/4.1/dataweave-flow-control-precedence
+
+- https://docs.oracle.com/javase/8/docs/api/java/text/DecimalFormat.html
+
+- https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html
