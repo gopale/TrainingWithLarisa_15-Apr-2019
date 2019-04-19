@@ -107,3 +107,10 @@ DataWeave sources:
 - https://docs.oracle.com/javase/8/docs/api/java/text/DecimalFormat.html
 
 - https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html
+
+<BR>
+Object Store:
+
+- https://blogs.mulesoft.com/dev/anypoint-platform-dev/new-mule-4-objectstore-connector/
+
+- https://docs.mulesoft.com/runtime-manager/managing-application-data-with-object-stores
